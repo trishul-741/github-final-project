@@ -1,25 +1,29 @@
-
----
-
-# 📄 2. LICENSE (Apache 2.0)
-```txt
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-Copyright 2026
+1. Definitions.
+"License" shall mean the terms...
+"Licensor" shall mean...
+"Legal Entity" shall mean...
+(continue full official text)
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
+2. Grant of Copyright License.
 
-You may obtain a copy of the License at
+3. Grant of Patent License.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+4. Redistribution.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+5. Submission of Contributions.
+
+6. Trademarks.
+
+7. Disclaimer of Warranty.
+
+8. Limitation of Liability.
+
+9. Accepting Warranty or Additional Liability.
+
+END OF TERMS AND CONDITIONS
