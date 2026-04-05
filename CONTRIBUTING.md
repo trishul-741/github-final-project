@@ -1,22 +1,19 @@
 # Contributing Guidelines
 
-## 🛠 How to Contribute
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## How to Contribute
 
 1. Fork the repository
-2. Create a new branch
-3. Make your changes
+2. Create a branch
+3. Make changes
 4. Submit a pull request
 
-## 📌 Guidelines
-- Write clean and readable code
-- Follow naming conventions
-- Test before submitting
-
-## 🐛 Reporting Bugs
-Open an issue with:
+## Reporting Issues
+Include:
 - Steps to reproduce
-- Expected behavior
-- Screenshots (if applicable)
+- Expected vs actual result
 
-## 💡 Feature Requests
-Feel free to suggest improvements!
+## Code Style
+- Write clean code
+- Follow naming conventions
